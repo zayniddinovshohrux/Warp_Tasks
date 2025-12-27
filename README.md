@@ -1,10 +1,11 @@
-WarpTask 📱 - iOS-style Todo App
+<h1>WarpTask 📱 - iOS-style Todo App</h1>
+<p><a href="https://warptask.netlify.app/">FOR USE !</a></p>
 
-https://./imgs/warptasks.png
+<img src="https://instagram.fbhk1-1.fna.fbcdn.net/v/t51.82787-15/601360227_17869148886497208_1107139744741749526_n.heic?stp=dst-jpg_e35_p640x640_sh0.08_tt6&_nc_ohc=JqF1hQ1E4soQ7kNvwHI-wvr&_nc_oc=AdlCgl_p_xylbCDyg5nR-Zgtyman_EzHjd1qDPbRmdUvxTA983UDfJZwvnY2qd-spSOPbtzCCwLPN9ov3gyXa83z&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbhk1-1.fna&_nc_gid=jAphxBRaHLuOZa6Hcd6U3Q&oh=00_AflGm2C8bIBgsrk-0OrPdJpRtZw9jThJVJ5RybUYZPc0GA&oe=6955CDCE" style="width:330px;">
 
 A beautiful, modern todo application with iOS design aesthetics, gamification features, and multi-language support.
 ✨ Features
-✅ Core Features
+<h2>✅ Core Features</h2>
 
     Task Management - Add, edit, delete tasks
 
@@ -16,7 +17,7 @@ A beautiful, modern todo application with iOS design aesthetics, gamification fe
 
     Notes - Add detailed notes to tasks
 
-📅 Calendar & Planning
+<h2>📅 Calendar & Planning</h2>
 
     Interactive Calendar - View tasks by date
 
@@ -26,7 +27,7 @@ A beautiful, modern todo application with iOS design aesthetics, gamification fe
 
     Quick Add - Add tasks for specific dates
 
-📊 Productivity
+<h2>📊 Productivity</h2>
 
     Statistics Dashboard - Visual progress tracking
 
@@ -36,7 +37,7 @@ A beautiful, modern todo application with iOS design aesthetics, gamification fe
 
     XP System - Earn points for completing tasks
 
-🎮 Gamification
+<h2>🎮 Gamification</h2>
 
     XP Points - Earn 10+ XP per completed task
 
@@ -48,7 +49,7 @@ A beautiful, modern todo application with iOS design aesthetics, gamification fe
 
     Notifications - Task completion alerts
 
-🌍 Multi-language
+<h2>🌍 Multi-language</h2>
 
     4 Languages - English, Russian, Uzbek, Spanish
 
@@ -58,7 +59,7 @@ A beautiful, modern todo application with iOS design aesthetics, gamification fe
 
     RTL Support - Full text direction support
 
-⚙️ Customization
+<h2>⚙️ Customization</h2>
 
     Dark Mode - iOS-style dark theme
 
@@ -68,7 +69,7 @@ A beautiful, modern todo application with iOS design aesthetics, gamification fe
 
     Categories - Custom task categories
 
-🚀 Quick Start
+<h2>🚀 Quick Start</h2>
 Installation
 bash
 
@@ -96,7 +97,7 @@ warptask/
 └── imgs/
     └── warptasks.png  # App logo
 
-🔧 How to Use
+<h2>🔧 How to Use</h2>
 Adding Tasks
 
     Open index.html or add.html
@@ -129,7 +130,9 @@ Changing Language
 
     Click "Apply"
 
-🌐 Languages Supported
+<h2>
+    🌐 Languages Supported
+</h2>
 
     English 🇺🇸 - Complete translation
 
@@ -139,7 +142,7 @@ Changing Language
 
     Spanish 🇪🇸 - Complete translation
 
-🛠️ Technology
+<h2>🛠️ Technology</h2>
 
     HTML5 - Semantic markup
 
@@ -153,7 +156,9 @@ Changing Language
 
     Font Awesome - Icons
 
-📱 Browser Support
+<h2>
+    📱 Browser Support
+</h2>
 
     ✅ Chrome (latest)
 
@@ -164,8 +169,9 @@ Changing Language
     ✅ Edge (latest)
 
     ✅ Opera (latest)
-
+<h2>
 ⚡ Performance
+</h2>
 
     Lightweight - No frameworks
 
@@ -175,7 +181,9 @@ Changing Language
 
     Responsive - All device sizes
 
-🔒 Data Privacy
+<h2>
+    🔒 Data Privacy
+</h2>
 
     All data stored locally in browser
 
@@ -185,7 +193,7 @@ Changing Language
 
     Export/Import options available
 
-📝 License
+<h2>📝 License</h2>
 
 MIT License - Free to use and modify
 🤝 Contributing
@@ -200,6 +208,6 @@ MIT License - Free to use and modify
 
     Open pull request
 
-📧 Contact
+<h1>📧 Contact</h1>
 
 For questions or support, open an issue on GitHub.
