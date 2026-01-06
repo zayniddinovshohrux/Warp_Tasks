@@ -1,8 +1,9 @@
-<img src="https://github.com/zayniddinovshohrux/Warp_Tasks/blob/main/Warp%20Task.png?raw=true"  width="1808" height="208"/>
+<img src="https://github.com/zayniddinovshohrux/Warp_Tasks/blob/main/Tgbotpng.png"  width="1500" height="528"/>
 <h1>WarpTask 📱 - iOS-style Todo App</h1>
 <p><a href="https://warptask.netlify.app/">FOR USE !</a></p>
 
-<img src="https://instagram.fbhk1-1.fna.fbcdn.net/v/t51.82787-15/601360227_17869148886497208_1107139744741749526_n.heic?stp=dst-jpg_e35_p640x640_sh0.08_tt6&_nc_ohc=JqF1hQ1E4soQ7kNvwHI-wvr&_nc_oc=AdlCgl_p_xylbCDyg5nR-Zgtyman_EzHjd1qDPbRmdUvxTA983UDfJZwvnY2qd-spSOPbtzCCwLPN9ov3gyXa83z&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbhk1-1.fna&_nc_gid=jAphxBRaHLuOZa6Hcd6U3Q&oh=00_AflGm2C8bIBgsrk-0OrPdJpRtZw9jThJVJ5RybUYZPc0GA&oe=6955CDCE" style="width:330px;">
+
+
 
 A beautiful, modern todo application with iOS design aesthetics, gamification features, and multi-language support.
 ✨ Features
@@ -141,7 +142,6 @@ Changing Language
 
     Uzbek 🇺🇿 - Complete translation
 
-    Spanish 🇪🇸 - Complete translation
 
 <h2>🛠️ Technology</h2>
 
@@ -210,5 +210,7 @@ MIT License - Free to use and modify
     Open pull request
 
 <h1>📧 Contact</h1>
+
+<img src="https://instagram.fbhk1-1.fna.fbcdn.net/v/t51.82787-15/601360227_17869148886497208_1107139744741749526_n.heic?stp=dst-jpg_e35_p640x640_sh0.08_tt6&_nc_ohc=JqF1hQ1E4soQ7kNvwHI-wvr&_nc_oc=AdlCgl_p_xylbCDyg5nR-Zgtyman_EzHjd1qDPbRmdUvxTA983UDfJZwvnY2qd-spSOPbtzCCwLPN9ov3gyXa83z&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fbhk1-1.fna&_nc_gid=jAphxBRaHLuOZa6Hcd6U3Q&oh=00_AflGm2C8bIBgsrk-0OrPdJpRtZw9jThJVJ5RybUYZPc0GA&oe=6955CDCE" style="width:330px;">
 
 For questions or support, open an issue on GitHub.
