@@ -1,5 +1,5 @@
 <img src="https://github.com/zayniddinovshohrux/Warp_Tasks/blob/main/Tgbotpng.png"  width="1500" height="528"/>
-<h1>WarpTask 📱 - iOS-style Todo App</h1>
+<h1>WarpTask 📱 - Multi-functional ToDo App 🍏</h1>
 <p><a href="https://warptask.netlify.app/">FOR USE !</a></p>
 
 
